@@ -1,5 +1,5 @@
 # Dog-Breed-TensorFlow
-The problem looks into develop a Deep Learning model that is able to predict a dog breed from an image based on the patterns found in each breed images. The model is build using TensorFlow 2.x, Keras API and a pre-trained model MobilNetV2.
+The problem looks into develop a Deep Learning model that is able to predict a dog breed from an image based on the patterns found in training dataset. The model is built using TensorFlow 2.x, Keras API and a pre-trained model MobilNetV2.
 
 The problem is a multi-class image classifier.
 
